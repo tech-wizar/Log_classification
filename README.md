@@ -13,7 +13,7 @@ A modular log classification project using:
 
 ## System Overview
 
-![Log Classification Flow](images\Gemini_Generated_Image_u3d8mku3d8mku3d8.png)
+![Log Classification Flow](images\flow_diag.png)
 
 ## Architecture Diagram
 
